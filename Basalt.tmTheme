@@ -119,8 +119,8 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
-            <key>foreground</key>
-            <string>#89678e</string>
+            			<key>foreground</key>
+            			<string>#00ff00</string>
 			</dict>
 		</dict>
 		<dict>
